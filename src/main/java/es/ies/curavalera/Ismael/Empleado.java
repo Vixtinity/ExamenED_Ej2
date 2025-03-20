@@ -2,7 +2,6 @@ package es.ies.curavalera.Ismael;
 
 
 /**
- *
  * @author Ismael
  */
 public class Empleado {
