@@ -13,6 +13,9 @@ public class Main {
         imprimirEmpleado();
     }
 
+    /**
+     * Metodo para imprimir el empleado
+     */
     private static void imprimirEmpleado() {
         Empleado empleado1 = new Empleado("1245678M","Perico de los Palotes");
 

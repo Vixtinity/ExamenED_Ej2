@@ -3,7 +3,7 @@ package es.ies.curavalera.Ismael;
 
 /**
  *
- * @author yo misma
+ * @author Ismael
  */
 public class Empleado {
     private String dni;
@@ -59,7 +59,12 @@ public class Empleado {
         this.cargo="EMPLEADO";
         this.numHijos=0;
     }
-    
+
+    /**
+     * @param base
+     * calcula el sueldo
+     * @return
+     */
     public double calcula_sueldo(double base){
         double total=base;
         
